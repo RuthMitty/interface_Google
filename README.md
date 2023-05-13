@@ -2,7 +2,7 @@
 
 ## Index
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/RuthMitty/interface_Google/blob/main/README.md#1-intro)
 * [2. What I build](#)
 * [3. Project goal](#)
 
