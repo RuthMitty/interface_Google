@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/RuthMitty/interface_Google/blob/main/README.md#1-intro)
 * [2. What I build](https://github.com/RuthMitty/interface_Google/blob/main/README.md#2--what-i-build)
-* [3. Project goal](#)
+* [3. Project goal](https://github.com/RuthMitty/interface_Google/blob/main/README.md#3-project-goal)
 
 ****
 ## 1. Intro
